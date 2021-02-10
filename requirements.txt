@@ -1,0 +1,5 @@
+sklearn
+numpy
+rich
+scikit-optimize 
+joblib
