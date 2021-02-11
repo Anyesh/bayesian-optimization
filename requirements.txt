@@ -3,3 +3,4 @@ numpy
 rich
 scikit-optimize 
 joblib
+hyperopt
